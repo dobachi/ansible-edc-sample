@@ -1,0 +1,6 @@
+[servers:children]
+local
+
+; This is a dummy
+[local]
+localhost
